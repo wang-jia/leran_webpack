@@ -1,6 +1,6 @@
 # leran_webpack
 webpack构建工具实践code
 
-webpack.config.js
-index.js
-package.json
+- webpack.config.js
+- index.js
+- package.json
